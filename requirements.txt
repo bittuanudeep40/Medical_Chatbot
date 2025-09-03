@@ -17,4 +17,5 @@ python-dotenv
 pinecone-client
 sentence-transformers
 gunicorn
+PyPDF2
 -e .
