@@ -10,4 +10,5 @@ langchain_openai
 langchain_experimental
 gunicorn
 langchain-google-genai
+langchain-huggingface
 -e .
