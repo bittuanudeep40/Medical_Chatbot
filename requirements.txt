@@ -6,9 +6,15 @@ python-dotenv
 pinecone[grpc]
 langchain-pinecone
 langchain_community
-langchain_openai
 langchain_experimental
 gunicorn
 langchain-google-genai
 langchain-huggingface
+langchain-core
+faiss-cpu
+pypdf
+python-dotenv
+pinecone-client
+sentence-transformers
+gunicorn
 -e .
