@@ -9,7 +9,7 @@ faiss-cpu==1.8.0
 pypdf==4.2.0
 PyPDF2==3.0.1
 python-dotenv==1.0.1
-pinecone-client==4.1.0
+pinecone-client
 sentence-transformers
 huggingface-hub
 gunicorn
