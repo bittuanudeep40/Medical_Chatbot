@@ -1,0 +1,21 @@
+# Ignore the Data folder, which contains the large PDF
+Data/
+
+# Ignore the research folder, which has your Jupyter Notebook
+research/
+
+# Ignore Python's virtual environment folder (if you have one)
+.venv/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# You can also ignore other non-essential files
+Dockerfile
+LICENSE
+README.md
